@@ -1,7 +1,7 @@
 # Wordle Archive (ES)
-An archive for [Wordle (ES)](https://wordle.danielfrg.com/) by [Daniel Rodriguez](https://github.com/danielfrg) forked from [DevangThakkar](https://github.com/DevangThakkar/) English [Wordle Archive](https://github.com/DevangThakkar/wordle_archive). 
+An archive for [Wordle (ES)](https://wordle.danielfrg.com/) by [Daniel Rodriguez](https://github.com/danielfrg) forked from [DevangThakkar](https://github.com/DevangThakkar/) English [Wordle Archive](https://github.com/DevangThakkar/wordle_archive)
 
-Registro de anteriores palabras presentes en [Wordle (ES)](https://wordle.danielfrg.com/) de [Daniel Rodriguez](https://github.com/danielfrg) y forkeado de [DevangThakkar](https://github.com/DevangThakkar/) [Wordle Archive] en Inglés (https://github.com/DevangThakkar/wordle_archive).
+Registro de anteriores palabras presentes en [Wordle (ES)](https://wordle.danielfrg.com/) de [Daniel Rodriguez](https://github.com/danielfrg) y forkeado de [DevangThakkar](https://github.com/DevangThakkar/) [Wordle Archive](https://github.com/DevangThakkar/wordle_archive) en Inglés.
 
 ## Reglas
 
