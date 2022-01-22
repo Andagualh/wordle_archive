@@ -10,10 +10,6 @@ Cada intento debe ser una palabra real contenida en el diccionario.
 
 Tras introducir una palabra, las letras se marcarán en color Gris, Amarillo o Verde.
 
-- Green: The letter is correct, in the correct position.
-- Yellow: The letter is correct, but in the wrong position.
-- Gray: The letter is incorrect.
-
 - Gris: La letra no esta en la palabra.
 - Amarillo: La letra está en la palabra, pero en otra posición.
 - Verde: La letra está en la palabra y en la misma posición.
